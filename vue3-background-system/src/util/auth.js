@@ -1,0 +1,1 @@
+export getToken = () => localStorage.getItem('token')
